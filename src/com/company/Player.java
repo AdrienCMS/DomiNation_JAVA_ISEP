@@ -124,6 +124,7 @@ public class Player {
                            }
                        }
                    }
+                   validMove = false;
                    break;
 
                case 2 :
